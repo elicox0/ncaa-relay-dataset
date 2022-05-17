@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Specific env to this project
+web_env/
 
 # Spyder project settings
 .spyderproject
